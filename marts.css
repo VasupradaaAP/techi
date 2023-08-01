@@ -1,0 +1,37 @@
+body
+{
+background-image: url("ybp.jpg");
+background-size: 2800px;
+}
+
+h1
+{
+   font-style:italic;
+}
+
+h2
+{
+   font-family:"Times New Roman", Times, serif;
+}
+
+table
+{
+font-size:1em;
+font-weight:bold;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+.buttons
+{
+	margin: auto;
+  	position: absolute;
+  	top: 88%;
+  	left: 0;
+  	bottom: 0;
+ 	right: 0;
+  	height: 37px;
+	width: 150px;
+	
+}
+
+
